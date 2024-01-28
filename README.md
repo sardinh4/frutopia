@@ -1,4 +1,4 @@
-# Page-Site-Sobre-Frutas
+# Frutopia (sem responsividade)
 Página envolvente sobre frutas utilizando HTML e CSS. 
 
 🛠️ Tecnologias Utilizadas:
@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=gGySTzH6-eU
 
 🔗 Link da Demo da Página:
 
-https://sardinh4.github.io/Page-Site-Sobre-Frutas/#
+https://sardinh4.github.io/frutopia/
